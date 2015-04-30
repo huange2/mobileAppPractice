@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RiddleGame</string>
+
+    <string name="title">Are you the Riddle Master?</string>
+    <string name="description">How much of a riddle master are you? Test yourself with this riddle challenge.By the way you lose when man is complete.</string>
+    <string name="question">Question goes here</string>
+    <string name="answer">$$$$$$$$$$</string>
+    <string name="hint">Hint</string>
+    <string name="exit">Give Up</string>
+    <string name="start">Start</string>
+    <string name="score">Score goes here.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_riddle_game2">RiddleGame2</string>
+    <string name="title_activity_riddle_result">RiddleResultActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
